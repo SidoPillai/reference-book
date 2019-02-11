@@ -30,3 +30,9 @@ This page consists of reference to all interesting articles
 
 ## Certification
 - [Google Certifications](https://developers.google.com/training/certification/)
+
+## Economics
+- [Cultural Capital](https://en.wikipedia.org/wiki/Cultural_capital)
+- [Commodity pathway diversion](https://en.wikipedia.org/wiki/Commodity_pathway_diversion)
+- [Gift economy](https://en.wikipedia.org/wiki/Gift_economy)
+- [Social capital](https://en.wikipedia.org/wiki/Social_capital)

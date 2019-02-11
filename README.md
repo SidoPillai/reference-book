@@ -24,9 +24,13 @@ This page consists of reference to all interesting articles
 - [FreeCodeCamp blogs](https://medium.freecodecamp.org/tagged/blockchain)
 - [DApps game development](https://cryptozombies.io)
 - [Concepts](https://www.youtube.com/watch?v=hYip_Vuv8J0)
+
+### Experiments
+- [Experimental Project Ykarma](https://github.com/rezendi/ykarma)
+- [MetaMask (Browser)](https://metamask.io)
 - [BlockStack - get paid for building decentralized applications](https://blockstack.org)
 - [Smart Contracts examples](https://hackernoon.com/a-simple-framework-for-understanding-smart-contract-applications-18fd78080436)
-- [Experimental Project Ykarma](https://github.com/rezendi/ykarma)
+- [FOAM - Proof of Location protocol](https://foam.space)
 
 ### Wallets
 - [Mew](https://www.myetherwallet.com/#contracts)

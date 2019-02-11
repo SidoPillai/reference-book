@@ -12,6 +12,7 @@ This page consists of reference to all interesting articles
 ## iOS
 
 ## JavaScript
+- [Introduction to Promise](http://techinpink.com/2017/02/24/introduction-to-javascript-promises/)
 
 ## UWP
 

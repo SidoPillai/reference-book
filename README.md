@@ -20,6 +20,7 @@ This page consists of reference to all interesting articles
 - [Ethereum Tutorial](https://medium.com/coinmonks/what-is-a-blockchain-and-its-purpose-42f462e017ed)
 - [Consensus Algorithm](https://medium.com/coinbundle/consensus-algorithms-dfa4f355259d)
 - [4th Industrial Revolution](https://media.consensys.net/welcome-to-the-fourth-industrial-revolution-19-blockchain-predictions-for-2019-8b2e542bf86a)
+- [HyperLedger Videos](https://www.hyperledger.org/resources/videos)
 
 ## Certification
 - [Google Certifications](https://developers.google.com/training/certification/)

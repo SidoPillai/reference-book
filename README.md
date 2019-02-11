@@ -24,6 +24,7 @@ This page consists of reference to all interesting articles
 - [FreeCodeCamp blogs](https://medium.freecodecamp.org/tagged/blockchain)
 - [DApps game development](https://cryptozombies.io)
 - [Concepts](https://www.youtube.com/watch?v=hYip_Vuv8J0)
+- [BlockStack - get paid for building decentralized applications](https://blockstack.org)
 
 ### Wallets
 - [Mew](https://www.myetherwallet.com/#contracts)

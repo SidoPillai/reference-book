@@ -23,6 +23,7 @@ This page consists of reference to all interesting articles
 - [HyperLedger Videos](https://www.hyperledger.org/resources/videos)
 - [FreeCodeCamp blogs](https://medium.freecodecamp.org/tagged/blockchain)
 - [DApps game development](https://cryptozombies.io)
+- [Concepts](https://www.youtube.com/watch?v=hYip_Vuv8J0)
 
 ### Wallets
 - [Mew](https://www.myetherwallet.com/#contracts)

@@ -18,3 +18,4 @@ This page consists of reference to all interesting articles
 ## Blockchain 
 - [Guide to Ethereum](https://medium.com/coinmonks/pauls-guide-to-ethereum-280be582653)
 - [Ethereum Tutorial](https://medium.com/coinmonks/what-is-a-blockchain-and-its-purpose-42f462e017ed)
+- [Consensus Algorithm](https://medium.com/coinbundle/consensus-algorithms-dfa4f355259d)

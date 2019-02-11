@@ -25,6 +25,7 @@ This page consists of reference to all interesting articles
 - [DApps game development](https://cryptozombies.io)
 - [Concepts](https://www.youtube.com/watch?v=hYip_Vuv8J0)
 - [BlockStack - get paid for building decentralized applications](https://blockstack.org)
+- [Smart Contracts examples](https://hackernoon.com/a-simple-framework-for-understanding-smart-contract-applications-18fd78080436)
 
 ### Wallets
 - [Mew](https://www.myetherwallet.com/#contracts)

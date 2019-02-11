@@ -43,3 +43,4 @@ This page consists of reference to all interesting articles
 - [Commodity pathway diversion](https://en.wikipedia.org/wiki/Commodity_pathway_diversion)
 - [Gift economy](https://en.wikipedia.org/wiki/Gift_economy)
 - [Social capital](https://en.wikipedia.org/wiki/Social_capital)
+- [The Black Box Society](http://www.hup.harvard.edu/catalog.php?isbn=9780674368279)

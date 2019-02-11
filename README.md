@@ -22,6 +22,7 @@ This page consists of reference to all interesting articles
 - [4th Industrial Revolution](https://media.consensys.net/welcome-to-the-fourth-industrial-revolution-19-blockchain-predictions-for-2019-8b2e542bf86a)
 - [HyperLedger Videos](https://www.hyperledger.org/resources/videos)
 - [FreeCodeCamp blogs](https://medium.freecodecamp.org/tagged/blockchain)
+- [DApps game development](https://cryptozombies.io)
 
 ### Wallets
 - [Mew](https://www.myetherwallet.com/#contracts)

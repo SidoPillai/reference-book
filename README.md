@@ -9,7 +9,8 @@ This page consists of reference to all interesting articles
 - [Android Architecture - View and View Model](https://android.jlelse.eu/android-architecture-communication-between-viewmodel-and-view-ce14805d72bf)
 - [Implement Dagger](https://android.jlelse.eu/7-steps-to-implement-dagger-2-in-android-dabc16715a3a)
 
-## iOS
+## Java
+- [Java COncepts](http://javapractices.com/home/HomeAction.do)
 
 ## JavaScript
 - [Introduction to Promise](http://techinpink.com/2017/02/24/introduction-to-javascript-promises/)

@@ -61,4 +61,10 @@ Here is an example of how star coordinates are represented:
 ### Interesting Star Fact
 The limiting brightness of stars seen with the naked eye is about magnitude 6.5. With binoculars, you can see to magnitudes of about 10. Cen, in this case, stands for Centaurus, one of the 88 constellations that can be found in the sky. Knowing the constellation can help you locate a star more easily.
 
+### Resources for Discovering Stars
+There are many great resources you can use to discover stars. Here are few of my favorite resources
+- [Google Sky](https://www.google.com/sky/)
+- [SkyView](https://skyview.gsfc.nasa.gov/blog/index.php/2012/12/04/can-you-help-me-find-a-star/)
+- [Celestial Coordinates](http://cse.ssl.berkeley.edu/SegwayEd/lessons/findplanets/coordinates.html)
+- [In the Sky](https://in-the-sky.org/skymap.php)
 

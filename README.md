@@ -57,3 +57,8 @@ Here is an example of how star coordinates are represented:
 > DEC = Declination <br>
 > CEN = Centaurus <br>
 > MAG = Magnitude <br>
+
+### Interesting Star Fact
+The limiting brightness of stars seen with the naked eye is about magnitude 6.5. With binoculars, you can see to magnitudes of about 10. Cen, in this case, stands for Centaurus, one of the 88 constellations that can be found in the sky. Knowing the constellation can help you locate a star more easily.
+
+

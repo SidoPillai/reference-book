@@ -45,3 +45,15 @@ This page consists of reference to all interesting articles
 - [Gift economy](https://en.wikipedia.org/wiki/Gift_economy)
 - [Social capital](https://en.wikipedia.org/wiki/Social_capital)
 - [The Black Box Society](http://www.hup.harvard.edu/catalog.php?isbn=9780674368279)
+
+## Astro
+
+### Star Coordinates
+Here is an example of how star coordinates are represented:
+
+``` RA 13h 03m 33.35sec, Dec -49° 31’ 38.1” Mag 4.83 Cen```
+
+> RA = Right Ascension <br>
+> DEC = Declination <br>
+> CEN = Centaurus <br>
+> MAG = Magnitude <br>

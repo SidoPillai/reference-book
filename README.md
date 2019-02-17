@@ -3,6 +3,10 @@ This page consists of reference to all interesting articles
 
 ## REST
 - [REST API Tutorial](https://www.restapitutorial.com/lessons/httpmethods.html)
+
+## Python
+- [Web Scrapping](https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460)
+
 ## Android
 - [Learning Android Development](https://android.jlelse.eu/learning-android-development-in-2018-part-1-83a514f6a205)
 - [Jetpack : Navigation Architecture Component](https://medium.com/deemaze-software/android-jetpack-navigation-architecture-component-b603c9a8100c)

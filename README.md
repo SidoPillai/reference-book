@@ -1,6 +1,9 @@
 # reference-book
 This page consists of reference to all interesting articles
 
+## Architecture
+- [Web Architecture](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+
 ## REST
 - [REST API Tutorial](https://www.restapitutorial.com/lessons/httpmethods.html)
 

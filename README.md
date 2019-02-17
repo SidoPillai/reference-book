@@ -3,6 +3,7 @@ This page consists of reference to all interesting articles
 
 ## Architecture
 - [Web Architecture](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+- [Scaling Postgres](https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067)
 
 ## REST
 - [REST API Tutorial](https://www.restapitutorial.com/lessons/httpmethods.html)
